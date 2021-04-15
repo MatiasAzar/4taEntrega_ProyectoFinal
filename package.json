@@ -269,5 +269,13 @@
     "yargs": "^13.3.2",
     "yargs-parser": "^13.1.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatiasAzar/Desafio_Clase15.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MatiasAzar/Desafio_Clase15/issues"
+  },
+  "homepage": "https://github.com/MatiasAzar/Desafio_Clase15#readme",
   "description": ""
 }
